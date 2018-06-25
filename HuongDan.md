@@ -1,7 +1,7 @@
 # ODK_collect
 Đây là bộ công cụ phục vụ cho tuần tra bảo vệ rừng với hệ thống open source. Hệ thống này bao gồm các phần mềm sau: GeoODK, OpenRefine, SMART và ODK Aggreagate. Để hiểu rõ từng bước làm hãy làm theo tuần tự các bước sau:
 
-Bước 1: Thiết lập lập máy chủ online bằng ODK Aggregate
+Bước 1: Thiết lập lập máy chủ online bằng ODK Aggregate (https://github.com/opendatakit/aggregate/releases)
 
 Bước 2: Xây dựng biểu mẫu thu thập thông tin ngoài thực địa
 
